@@ -5,3 +5,4 @@
 <img width="376" alt="Zrzut ekranu 2024-06-25 o 15 05 05" src="https://github.com/Jey0204/Checklist/assets/130754053/98995c5f-1b5b-4112-b589-155dcf0d12fd">
 <img width="372" alt="Zrzut ekranu 2024-06-25 o 15 05 25" src="https://github.com/Jey0204/Checklist/assets/130754053/10a94e55-de92-4275-be61-8c83ca3d4805">
 <img width="389" alt="Zrzut ekranu 2024-06-28 o 16 19 42" src="https://github.com/Jey0204/Checklist/assets/130754053/3be72ef0-8522-4642-890c-a108af1707d0">
+<img width="383" alt="Zrzut ekranu 2024-06-28 o 16 21 42" src="https://github.com/Jey0204/Checklist/assets/130754053/5354043b-4a00-4efa-b22b-0778287e3dd5">
