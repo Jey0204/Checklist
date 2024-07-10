@@ -11,6 +11,7 @@ Dodanie nowej notatki oraz zaznaczenie jej.
 
 Sortowanie po zaznaczonych/odhaczonych elementach i po zaznaczonych/nieodchaczonych.
 
+<img width="200" alt="Zrzut ekranu 2024-06-28 o 16 21 42" src="https://github.com/Jey0204/Checklist/assets/130754053/5354043b-4a00-4efa-b22b-0778287e3dd5">
+
 <img width="200" alt="Zrzut ekranu 2024-06-28 o 16 19 42" src="https://github.com/Jey0204/Checklist/assets/130754053/3be72ef0-8522-4642-890c-a108af1707d0">
 
-<img width="200" alt="Zrzut ekranu 2024-06-28 o 16 21 42" src="https://github.com/Jey0204/Checklist/assets/130754053/5354043b-4a00-4efa-b22b-0778287e3dd5">
